@@ -39,7 +39,7 @@ for (const li of liColection) {
 // Task 7 -- отримати весь список класів елемента з id=rules і вивести їх в console.log
 
 const allRules = document.getElementById('rules');
-console.log(allRules);
+console.log(allRules.classList);
 
 // Task 8 -- поміняти колір тексту у всіх елементів fc_rules на червоний
 
